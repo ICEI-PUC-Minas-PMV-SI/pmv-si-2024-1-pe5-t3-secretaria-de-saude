@@ -6,7 +6,7 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Projeto para atender às demandas de uma infraestrutura de rede que ligue uma Secretaria Municipal de Saúde, um Hospital Regional e seis Unidades de Pronto Atendimento (UPAs) em um município, é importante abordar uma série de aspectos, desde o planejamento detalhado de redes de computadores até questões legais e de segurança da informação. Este projeto irá detalhar esses aspectos em três seções principais: aplicações de software, hardware de rede e infraestrutura de rede necessária.
 
 ## Integrantes
 
