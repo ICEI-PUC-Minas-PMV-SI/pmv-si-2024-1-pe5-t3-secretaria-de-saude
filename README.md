@@ -18,6 +18,6 @@ Projeto para atender às demandas de uma infraestrutura de rede que ligue uma Se
 
 ## Orientador
 
-* Nome completo do professor 1
+* Alexandre Teixeira
 
 
